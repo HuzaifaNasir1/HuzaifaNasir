@@ -14,8 +14,11 @@ Full Stack Developer | MERN Stack Specialist | Building scalable web apps &amp; 
 - 💻 Full Stack Developer specializing in MERN stack  
 - ⚙️ Building scalable web apps & RESTful APIs  
 - 🌱 Passionate about clean code, problem-solving, and continuous learning  
-- 📂 Projects: https://github.com/huzaifanasir  
+- 📂 Projects: https://github.com/HuzaifaNasir1  
 - 📧 Contact: gd.huzaifa@gmail.com  
+
+**Bio:**  
+> Full Stack Developer | MERN Stack | Building scalable web apps & RESTful APIs. Passionate about clean code, problem-solving & open to freelance/Upwork projects.
 
 ---
 
@@ -71,8 +74,8 @@ Full Stack Developer | MERN Stack Specialist | Building scalable web apps &amp; 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=huzaifanasir&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifanasir&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=HuzaifaNasir1&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaNasir1&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
 
 ---
@@ -80,7 +83,7 @@ Full Stack Developer | MERN Stack Specialist | Building scalable web apps &amp; 
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=huzaifanasir&theme=react-dark&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=HuzaifaNasir1&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -88,7 +91,7 @@ Full Stack Developer | MERN Stack Specialist | Building scalable web apps &amp; 
 ## 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifanasir&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HuzaifaNasir1&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 ---
@@ -96,35 +99,65 @@ Full Stack Developer | MERN Stack Specialist | Building scalable web apps &amp; 
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=huzaifanasir&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=HuzaifaNasir1&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 💼 My Projects
 
-### 🔹 Full Stack Web Application
-- MERN Stack
-- JWT Authentication
-- RESTful APIs
-- Admin Dashboard
+### 🔹 Golegal (React.js, Node.js, Express.js, MongoDB)
+A comprehensive legal-tech platform:
+- AI-driven legal document generation via questionnaires
+- Facilitating lawyer hiring for case filing
+- Seamless document sharing with integrated payment & subscription
 
-### 🔹 E-Commerce Platform
-- Payment Integration
-- Order Management
-- Product Filtering & Search
+### 🔹 Murterpe (React.js, Node.js, Express.js, MongoDB)
+An AI-powered gifting platform:
+- Create personalized designs with images & styles
+- Customize & preview designs on products
+- Process finalized designs for printing & delivery
 
-### 🔹 Business Portfolio System
-- Dynamic CMS
-- SEO Optimized
-- Fully Responsive
+### 🔹 Network-Zone (React.js, Node.js, Express.js, MongoDB)
+Workspace booking platform:
+- Real-time booking with seat selection & scheduling
+- Connects workspace providers with seekers
+
+### 🔹 Shortlet-Connect (React.js, Node.js, Express.js, MongoDB)
+Property management platform:
+- Contract creation & property postings
+- Real-time chat & secure payment integration via Stripe
+
+### 🔹 Motorqe (TypeScript, React.js, Node.js, Express.js, MongoDB)
+Online car marketplace:
+- Real-time chat & vehicle search
+- Secure user authentication & payment integration
+
+### 🔹 Peypaas (TypeScript, React.js, Node.js, Express.js, MongoDB)
+Secure payment platform:
+- User-friendly interface for seamless transactions
+- Scalable backend architecture for API integration
+
+### 🔹 Amdoh (JavaScript, React.js, Node.js, Express.js, MongoDB)
+QR code-based system:
+- Effortless product management & cart addition
+- Admin panel for order processing & Excel exports
+
+### 🔹 Voltie (JavaScript, React.js, Node.js, Express.js, MongoDB)
+Platform for showcasing innovative chargers:
+- Interactive designs developed with Next.js
+
+### 🔹 Uraten (JavaScript, React.js, Node.js, Express.js, MongoDB)
+Singing improvement platform:
+- Structured learning modules (beginner to advanced)
+- Admin-controlled video uploads for dynamic learning
 
 ---
 
 ## 👀 Profile Views
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=huzaifanasir&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=HuzaifaNasir1&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
